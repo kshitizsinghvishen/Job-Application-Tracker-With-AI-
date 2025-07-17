@@ -1,5 +1,5 @@
 Job Application-Tracker-With-AI-
-The file `code (7).html` is a comprehensive HTML document containing the front-end implementation for a "Job Application Tracker" web application. Here’s a summary of its major components and features:
+The file is a comprehensive HTML document containing the front-end implementation for a "Job Application Tracker" web application. Here’s a summary of its major components and features:
 
  General Structure
 1. HTML Basics:
